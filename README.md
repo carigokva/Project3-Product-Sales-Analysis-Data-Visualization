@@ -29,7 +29,7 @@ Customer Lookup, and Calendar Lookup. Data Modelling used is STAR schema.
 ## Overview of Findings
 Revenue remained steady from 2011 to 2013, then began a strong upward trend upon the introduction of 
 new product categories (Accessories and Clothing). The transaction volume is driven mainly by Accessories sales. 
-Even if the revenue brought by the new categories are low, it amplified the Bike sales.
+Even if the revenue brought by the new categories are low, it amplified the Bike sales by introducing cross category purchasing.
 
 ![Exec Dashboard](https://github.com/carigokva/Project3-Product-Sales-Analysis-Data-Visualization/blob/main/images/Dashboard.png)
 
