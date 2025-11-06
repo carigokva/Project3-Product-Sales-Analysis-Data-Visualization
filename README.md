@@ -1,5 +1,9 @@
 # Project3-Product-Sales-Analysis-Data-Visualization
-Creating a Power BI dashboard to analyze product sales performance of a manufacturing company.
+The purpose of this project is to analyze product sales performance and understand how introducing
+new products helped the company increase it's revenue significantly.
+
+Power BI is used to create the visuals. Data cleaning is done on a separate product that involves
+Data Warehousing.
 
 # Project Background
 A global manufacturing company that produces bicycle equipment and accessories needs to track KPIs such 
