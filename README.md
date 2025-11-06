@@ -62,7 +62,7 @@ Even if the revenue brought by the new categories are low, it amplified the Bike
 ![Category Transaction Contribution](https://github.com/carigokva/Project3-Product-Sales-Analysis-Data-Visualization/blob/main/images/Category%20Transaction%20Contribution.png)
 
 ## Product Synergy
-* Accessories and Clothing had minimal direct revenue impact (4.1% and 2.0%), but their synergy with the
+* Accessories and Clothing had minimal direct revenue impact, but their synergy with the
   Bike category significantly boosted sales.
 * Cross-category purchases were the main revenue driver — with Accessories & Bike purchases accounting for 54.0%,
   Accessories, Bike & Clothing for 20.5%, and Bike & Clothing for 10.6% of total sales.
