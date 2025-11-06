@@ -36,10 +36,9 @@ Even if the revenue brought by the new categories are low, it amplified the Bike
 ---
 # Insights Deep Dive
 
-## Sales Growth
-* The average revenue for 2011 to 2013 is $538,221.63.
+## Revenue Growth
 * A clear positive trend began at the start of 2013, marking the consistent revenue growth through 2014.
-  Average monthly revenue grew to $1,362,489.17 (+153%).
+  Average monthly revenue grew from $538,221.63 in 2011-2013 to $1,362,489.17 in 2014. (+153%).
 
 ![Revenue Trend](https://github.com/carigokva/Project3-Product-Sales-Analysis-Data-Visualization/blob/main/images/Revenue%20Trend.png)
 
