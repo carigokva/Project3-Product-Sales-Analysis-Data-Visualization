@@ -46,7 +46,7 @@ Even if the revenue brought by the new categories are low, it amplified the Bike
 ## Transaction Volume increased upon the introduction of new product categories
 * The new product categories (Accessories and Bike) brought small revenue gains on their sales alone.
 * Total number of transactions spiked from 2013 onwards, which coincides with the introduction of new product categories. Average monthly transactions from 2011 to 2013
-  is 229, and 1,774 for 2013 to 2014. This results to 674% increase in the average monthly transactions.
+  is 229, then rose to 1,774 by 2013 to 2014. This results to 674% increase in the average monthly transactions.
 * The spike was primarily driven by Accessories purchases which is attributed to 81.6% of the total transactions in 2013.
 
 ![Sales by Category](https://github.com/carigokva/Project3-Product-Sales-Analysis-Data-Visualization/blob/main/images/Sales%20by%20Category.png)
