@@ -53,7 +53,6 @@ Even if the revenue brought by the new categories are low, it amplified the Bike
 ![Transactions by Category](https://github.com/carigokva/Project3-Product-Sales-Analysis-Data-Visualization/blob/main/images/Transactions%20by%20Category.png)
 
 ## Complementary Purchasing
-* In 2013, 24.6% of the total transactions include products from the Accessories and Bike category.
 * In 2013, cross-category purchases that include at least one item from Bike category, made up 40.0% of all transactions.
   This indicates a strong overlap between the Bike and other categories.
 
