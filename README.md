@@ -29,7 +29,7 @@ Revenue remained steady from 2011 to 2013, then began a strong upward trend upon
 new product categories (Accessories and Clothing). Transaction volume driven mainly by Accessories and 
 Clothing sales. Even if the revenue brought by the new categories are low, it amplified the Bike sales.
 
-![Exec Dashboard](/images.Dashboard.png)
+![Exec Dashboard](https://github.com/carigokva/Project3-Product-Sales-Analysis-Data-Visualization/blob/main/images/Dashboard.png)
 
 ---
 # Insights Deep Dive
